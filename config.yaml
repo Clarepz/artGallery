@@ -29,7 +29,7 @@ params:
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.bora.sh/eternity'
   homepage: "/accueil" # homepage link, mostly same with menu.main[0]
-  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
 
 markup:
   defaultMarkdownHandler: goldmark
