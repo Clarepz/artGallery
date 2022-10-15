@@ -1,4 +1,4 @@
-baseURL: https://clarepz.github.io/artgallery # todo: change site url.
+ # todo: change site url.
 title: Art Gallery # todo: change site name.
 defaultContentLanguage: 'fr'
 theme: eternity
