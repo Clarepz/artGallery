@@ -28,7 +28,7 @@ params:
       landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.bora.sh/eternity'
-  homepage: "/caca" # homepage link, mostly same with menu.main[0]
+  homepage: "artGallery/accueil" # homepage link, mostly same with menu.main[0]
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
 
 markup:
