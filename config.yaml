@@ -1,4 +1,4 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
+baseURL: https://clarepz.github.io/artgallery # todo: change site url.
 title: Art Gallery # todo: change site name.
 defaultContentLanguage: 'fr'
 theme: eternity
@@ -24,7 +24,7 @@ params:
   socials:
     # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
-      url: 'eternity@bora.sh'
+      url: 'mailto:eternity@bora.sh'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.bora.sh/eternity'
