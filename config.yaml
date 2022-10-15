@@ -1,4 +1,4 @@
-baseURL: https://clarepz.github.io/artGallery/ # todo: change site url.
+#baseURL: https://clarepz.github.io # todo: change site url.
 title: Art Gallery # todo: change site name.
 defaultContentLanguage: 'fr'
 theme: eternity
@@ -29,7 +29,7 @@ params:
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.bora.sh/eternity'
   homepage: "/accueil" # homepage link, mostly same with menu.main[0]
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
 
 markup:
   defaultMarkdownHandler: goldmark
