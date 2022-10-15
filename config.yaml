@@ -1,5 +1,5 @@
 #baseURL: https://clarepz.github.io # todo: change site url.
-baseURL : https://clarepz.github.io/artGallery/
+baseURL : /artGallery
 title: Art Gallery # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
