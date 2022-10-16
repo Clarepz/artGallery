@@ -1,7 +1,7 @@
 ---
 weight: 1
 images:
-- assets/images/ct_110915-23-polar-bear-walking.jpg
+- /images/ct_110915-23-polar-bear-walking.jpg
 title: nature 1
 date: 2022-07-23
 tags:
