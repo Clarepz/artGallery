@@ -8,4 +8,5 @@ tags:
 - archive # all posts
 - nature
 - accueil
+- newtag
 ---

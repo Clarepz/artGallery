@@ -19,8 +19,8 @@ params:
         people: 2
         default: 3
       mobile:
-        default: 2
-        archive: 3
+        default: 1
+        archive: 2
         people: 1
   socials:
     # todo: change these links.
@@ -49,7 +49,7 @@ menu:
     - name: accueil 
       url: /accueil/
       weight: 1
-    - name: people
+    - name: People 
       url: /tags/people/
       weight: 2
     - name: nature
@@ -60,4 +60,8 @@ menu:
       weight: 4
     - name: à propos
       url: /about/
+      weight: 6
+    - name: jiao zi 餃子
+      url: /tags/jiaozi/
       weight: 5
+
