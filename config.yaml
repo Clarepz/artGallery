@@ -49,19 +49,11 @@ menu:
     - name: accueil 
       url: /accueil/
       weight: 1
-    - name: People 
-      url: /tags/people/
-      weight: 2
-    - name: nature
-      url: /tags/nature/
-      weight: 3
     - name: archive
       url: /tags/archive/
       weight: 4
     - name: à propos
       url: /about/
       weight: 6
-    - name: jiao zi 餃子
-      url: /tags/jiaozi/
-      weight: 5
+
 
