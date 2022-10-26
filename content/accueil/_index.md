@@ -5,7 +5,7 @@ url: accueil
 
 <div align="center">
 	<p>
-        Voici la galerie de <strong>Clarence</strong>.
+        Voici la galerie de <strong>Carole</strong>.
 	</p>
 </div>
 

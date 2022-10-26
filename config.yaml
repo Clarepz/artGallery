@@ -9,7 +9,7 @@ params:
   image: /images/banner.png
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
+  author: Carole (fullname) # todo: set your full name.
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
@@ -24,11 +24,11 @@ params:
         people: 1
   socials:
     # todo: change these links.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
-      landing: true
-    - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
+    #- icon: 'far fa-envelope fa-lg'
+      #url: 'mailto:eternity@bora.sh'
+      #landing: true
+    #- icon: 'fab fa-instagram fa-lg'
+      #url: 'https://instagram.bora.sh/eternity'
   homepage: "/accueil" # homepage link, mostly same with menu.main[0]
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
 
