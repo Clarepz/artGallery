@@ -1,6 +1,6 @@
 
 baseURL : https://clarepz.github.io/artGallery
-title: Carol # todo: change site name.
+title: la Galerie de Carol # todo: change site name.
 defaultContentLanguage: 'fr'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
