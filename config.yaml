@@ -1,7 +1,7 @@
 
 baseURL : https://clarepz.github.io/artGallery
-title: Art Gallery # todo: change site name.
-defaultContentLanguage: 'en'
+title: la Galerie de Carol # todo: change site name.
+defaultContentLanguage: 'fr'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
@@ -9,7 +9,7 @@ params:
   image: /images/banner.png
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Carole (fullname) # todo: set your full name.
+  author: Carol Chantereau # todo: set your full name.
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:

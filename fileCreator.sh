@@ -1,5 +1,5 @@
 #! /usr/bin/bash
-#cd content/accueil/expo
+# cd content/accueil/expo
 i=0
 for filename in assets/images/CarolePainting/*; do
     i=$((i+1))
