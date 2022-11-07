@@ -1,5 +1,5 @@
 
-baseURL : https://clarepz.github.io/artGallery
+baseURL : http://la-galerie-de-carol.com
 title: la Galerie de Carol # todo: change site name.
 defaultContentLanguage: 'fr'
 theme: eternity
