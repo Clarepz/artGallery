@@ -1,5 +1,4 @@
-
-baseURL : https://la-galerie-de-carol.com/artGallery
+baseURL : https://la-galerie-de-carol.com
 title: la Galerie de Carol # todo: change site name.
 defaultContentLanguage: 'fr'
 theme: eternity
