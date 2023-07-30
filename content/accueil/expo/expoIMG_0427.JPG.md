@@ -6,7 +6,7 @@ title: Peinture 1
 tags:
 - archive # all posts
 - expo
-- accueil
+#- accueil
 ---
 
 
