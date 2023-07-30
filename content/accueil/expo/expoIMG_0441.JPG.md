@@ -6,7 +6,7 @@ title: Beauty of Bali
 tags:
 - archive # all posts
 - expo
-- accueil
+#- accueil
 
 ---
 

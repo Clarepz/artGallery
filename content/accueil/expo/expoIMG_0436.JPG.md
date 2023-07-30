@@ -6,7 +6,7 @@ title: Chaloupe à l'encre
 tags:
 - archive # all posts
 - expo
-- accueil
+#- accueil
 
 ---
 
