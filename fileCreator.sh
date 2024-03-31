@@ -7,7 +7,7 @@ for filename in assets/images/actuel/*; do
     read -r -d '' STR << EOM
     ---
 images:
-- /images/CarolePainting/${filename##*/}
+- /images/actuel/${filename##*/}
 title: peinture $i
 #date: 2022-07-23
 tags:
