@@ -2,3 +2,4 @@ public/
 resources/
 .hugo_build.lock
 theme/eternity/
+.DS_Store
